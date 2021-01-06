@@ -1,5 +1,5 @@
 # Teeko Game
-How to run:
+How to run: HASHAHSHKJASK
 1. You need Python 3+ as well to get the game to run 
 2. Install pygame - Go to your terminal and type: pip install pygame
 3. Install numpy - Go to your terminal and type: pip install numpy
